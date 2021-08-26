@@ -1,7 +1,7 @@
 # Projeto controle de ponto 
 
 
-API REST para controle de ponto e acessos de uma empresa.
+API REST para controle de pontos e acessos de uma empresa.
 
 - Java
 - JPA
