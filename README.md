@@ -4,6 +4,7 @@
 API REST para controle de ponto e acessos de uma empresa.
 
 - Java
+- JPA
 - Hibernate
 - Spring Boot
 - Gradle
